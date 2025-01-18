@@ -70,5 +70,32 @@
   "workspace:goto-tab-5": [],
   "workspace:goto-tab-6": [],
   "workspace:goto-tab-7": [],
-  "workspace:goto-tab-8": []
+  "workspace:goto-tab-8": [],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "-"
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "="
+    }
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ]
 }
