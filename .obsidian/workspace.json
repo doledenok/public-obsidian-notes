@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "d1b6ddccdfa90e47",
+    "type": "split",
+    "children": [
+      {
+        "id": "88b330ad40c43a08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ed6ae661a88705b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Разработка/Создание telegram бота.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Создание telegram бота"
+            }
+          },
+          {
+            "id": "fd91fdb0f3721db6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian guide/Описание.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Описание"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a587544ce4a986c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4f70b8a37fdae20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "faa6113a7c96a6cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e7cea4c5ddf9d3c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "26bf33df174dda6c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "16aa6e171864b790",
+    "type": "split",
+    "children": [
+      {
+        "id": "36bad1da81863de4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb8f894e0468487c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian guide/Описание.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Описание"
+            }
+          },
+          {
+            "id": "05501c17b4ce9b4c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian guide/Описание.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Описание"
+            }
+          },
+          {
+            "id": "da9a39e9e59992ee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d849424537eec23d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian guide/Описание.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Описание"
+            }
+          },
+          {
+            "id": "784d6f49cc9a05bd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "fd91fdb0f3721db6",
+  "lastOpenFiles": [
+    "Разработка/Создание telegram бота.md",
+    "Obsidian guide/Описание.md",
+    "Obsidian guide/лдао.md",
+    "Obsidian guide/_attachments/Pasted image 20250117232427.png",
+    "Obsidian guide/_attachments",
+    "Obsidian guide",
+    "Разработка"
+  ]
+}
