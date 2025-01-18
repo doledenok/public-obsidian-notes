@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Obsidian guide/Описание.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "16aa6e171864b790",
@@ -162,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 284.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,8 +177,9 @@
   },
   "active": "fd91fdb0f3721db6",
   "lastOpenFiles": [
-    "Разработка/Создание telegram бота.md",
+    "README.md",
     "Obsidian guide/Описание.md",
+    "Разработка/Создание telegram бота.md",
     "Obsidian guide/лдао.md",
     "Obsidian guide/_attachments/Pasted image 20250117232427.png",
     "Obsidian guide/_attachments",
