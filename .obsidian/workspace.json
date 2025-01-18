@@ -136,19 +136,6 @@
             }
           },
           {
-            "id": "da9a39e9e59992ee",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
             "id": "d849424537eec23d",
             "type": "leaf",
             "state": {
@@ -171,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
