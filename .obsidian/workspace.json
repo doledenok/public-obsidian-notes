@@ -149,7 +149,20 @@
             }
           },
           {
-            "id": "784d6f49cc9a05bd",
+            "id": "6b27fd5907450034",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "899533fdc1dc0480",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -159,12 +172,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,9 +191,9 @@
   },
   "active": "fd91fdb0f3721db6",
   "lastOpenFiles": [
+    "Разработка/Создание telegram бота.md",
     "Obsidian guide/Описание.md",
     "README.md",
-    "Разработка/Создание telegram бота.md",
     "Obsidian guide/лдао.md",
     "Obsidian guide/_attachments/Pasted image 20250117232427.png",
     "Obsidian guide/_attachments",
